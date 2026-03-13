@@ -1,5 +1,3 @@
-Here is a **simple GitHub README.md** you can use for your **Java Number Guessing Game** project.
-
 ---
 
 # 🎯 Number Guessing Game (Java)
